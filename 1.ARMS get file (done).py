@@ -72,14 +72,16 @@ def run(playwright):
         "369082364 Martingale",
         "Iran 2 Martingale",
         "B book exclude Autohedge",
-        "369034123 Martingale Portfolio",
-        "Rockgreen Martingale (Server 1)",
-        "Rockgreen Martingale (Server 2)",
-        "369102488 Martingale (server 2)",
-        "369103139 Martingale (server 2)"
+        "369034123 Martingale",
+        "Rockgreen Martingale",
+        "Rockgreen Martingale",
+        "369102488 Martingale",
+        "369103139 Martingale",
+        "369085137 Martingale",
+        "Thailand Martingale",
     ]
 
-    weekly_meeting_tag = "(Weekly meeting 7 day)"
+    weekly_meeting_tag = "(Weekly meeting)"
 
     # 10) Find and download files matching all conditions:
     #    - date_str in the link text
